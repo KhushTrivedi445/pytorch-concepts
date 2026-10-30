@@ -1,2 +1,2 @@
 # pytorch-concepts
-so give me the description for this repo containg max 350 characters A structured repository covering PyTorch fundamentals, tensor operations, autograd, neural networks, model training, loss functions, optimizers, and deep learning concepts with practical code examples and hands-on implementations.
+A structured repository covering PyTorch fundamentals, tensor operations, autograd, neural networks, model training, loss functions, optimizers, and deep learning concepts with practical code examples and hands-on implementations.
